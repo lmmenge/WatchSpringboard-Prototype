@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Lucas Menge. All rights reserved.
 //
 
+#import "FGAppReader.h"
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
@@ -17,6 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   // Override point for customization after application launch.
+    
   return YES;
 }
 
