@@ -10,6 +10,7 @@
 
 #import "LMSpringboardItemView.h"
 #import "LMSpringboardView.h"
+#import "FGAppReader.h"
 
 @interface LMViewControllerView ()
 {
@@ -60,6 +61,11 @@
       _springboard.alpha = 1;
       NSUInteger index = [_springboard indexOfItemClosestToPoint:[_springboard convertPoint:pointInSelf fromView:self]];
       [_springboard centerOnIndex:index zoomScale:_springboard.zoomScale animated:NO];
+        
+        // Maybe read the screenshot cached by iOS (see: http://blog.adambell.ca/post/73339778302/dynamic-ios-multitasking) ??
+        NSLog(@"Attempting to open %@", item.label.text);
+        [FGAppReader openApp:item.label.text];
+        
     }];
   }
 }
