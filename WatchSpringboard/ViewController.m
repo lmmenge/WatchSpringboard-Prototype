@@ -116,6 +116,13 @@
 {
   [super viewDidLoad];
   
+    self.view.backgroundColor = [UIColor blackColor];
+    
+    // add blur behind status bar
+    UIVisualEffectView *blurView = [[UIVisualEffectView alloc] initWithEffect:[UIBlurEffect effectWithStyle:UIBlurEffectStyleLight]];
+    blurView.frame = CGRectMake(0, 0, [UIScreen mainScreen].bounds.size.width, 22);
+    [self.view addSubview:blurView];
+    
   [[self customView].respringButton addTarget:self action:@selector(LM_respringTapped:) forControlEvents:UIControlEventTouchUpInside];
   [self springboard].alpha = 0;
   
