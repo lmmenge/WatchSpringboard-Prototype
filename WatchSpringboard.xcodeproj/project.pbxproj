@@ -55,6 +55,8 @@
 		A089815719FAFC7900034E0B /* Icon-8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813519FAFC7900034E0B /* Icon-8@2x.png */; };
 		A089815819FAFC7900034E0B /* Icon-9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813619FAFC7900034E0B /* Icon-9@2x.png */; };
 		A089815B19FB039E00034E0B /* LMSpringboardItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = A089815A19FB039E00034E0B /* LMSpringboardItemView.m */; };
+		B2E377B819FF127A00A10D5E /* LMApp.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E377B519FF127A00A10D5E /* LMApp.m */; };
+		B2E377B919FF127A00A10D5E /* LMAppController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2E377B719FF127A00A10D5E /* LMAppController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -125,6 +127,10 @@
 		A089813619FAFC7900034E0B /* Icon-9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-9@2x.png"; sourceTree = "<group>"; };
 		A089815919FB039E00034E0B /* LMSpringboardItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMSpringboardItemView.h; sourceTree = "<group>"; };
 		A089815A19FB039E00034E0B /* LMSpringboardItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LMSpringboardItemView.m; sourceTree = "<group>"; };
+		B2E377B419FF127A00A10D5E /* LMApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LMApp.h; path = LaunchServicesApis/LMApp.h; sourceTree = SOURCE_ROOT; };
+		B2E377B519FF127A00A10D5E /* LMApp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LMApp.m; path = LaunchServicesApis/LMApp.m; sourceTree = SOURCE_ROOT; };
+		B2E377B619FF127A00A10D5E /* LMAppController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LMAppController.h; path = LaunchServicesApis/LMAppController.h; sourceTree = SOURCE_ROOT; };
+		B2E377B719FF127A00A10D5E /* LMAppController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LMAppController.m; path = LaunchServicesApis/LMAppController.m; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +174,7 @@
 		A073BBB419F9C7AB0068D6A6 /* WatchSpringboard */ = {
 			isa = PBXGroup;
 			children = (
+				B2E377B319FF126500A10D5E /* PrivateLaunchServicesApis */,
 				A073BBDB19F9C7F80068D6A6 /* LMSpringboardView */,
 				A073BBB919F9C7AB0068D6A6 /* AppDelegate.h */,
 				A073BBBA19F9C7AB0068D6A6 /* AppDelegate.m */,
@@ -262,6 +269,17 @@
 				A069C6CA19FC5AAD00E7E6D5 /* Icon-34@2x.png */,
 			);
 			path = Icons;
+			sourceTree = "<group>";
+		};
+		B2E377B319FF126500A10D5E /* PrivateLaunchServicesApis */ = {
+			isa = PBXGroup;
+			children = (
+				B2E377B419FF127A00A10D5E /* LMApp.h */,
+				B2E377B519FF127A00A10D5E /* LMApp.m */,
+				B2E377B619FF127A00A10D5E /* LMAppController.h */,
+				B2E377B719FF127A00A10D5E /* LMAppController.m */,
+			);
+			name = PrivateLaunchServicesApis;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -404,8 +422,10 @@
 			files = (
 				A089815B19FB039E00034E0B /* LMSpringboardItemView.m in Sources */,
 				A073BBBE19F9C7AB0068D6A6 /* ViewController.m in Sources */,
+				B2E377B919FF127A00A10D5E /* LMAppController.m in Sources */,
 				A089811319FAF4EC00034E0B /* LMViewControllerView.m in Sources */,
 				A073BBDE19F9C8220068D6A6 /* LMSpringboardView.m in Sources */,
+				B2E377B819FF127A00A10D5E /* LMApp.m in Sources */,
 				A073BBBB19F9C7AB0068D6A6 /* AppDelegate.m in Sources */,
 				A073BBB819F9C7AB0068D6A6 /* main.m in Sources */,
 			);
