@@ -10,12 +10,13 @@
 
 @interface LMApp : NSObject
 
-+(instancetype)appWithPrivateProxy:(id)privateProxy;
-+(instancetype)appWithBundleIdentifier:(NSString*)bundleIdentifier;
 @property (nonatomic, readonly) NSString* bundleIdentifier;
 @property (nonatomic, readonly) NSString* name;
 @property (nonatomic, readonly) UIImage* icon;
 
 @property (nonatomic, readonly) BOOL isHiddenApp;
+
++ (instancetype)appWithPrivateProxy:(id)privateProxy;
++ (instancetype)appWithBundleIdentifier:(NSString*)bundleIdentifier;
 
 @end
