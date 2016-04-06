@@ -7,7 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A069C6CB19FC5AAE00E7E6D5 /* Icon-34@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CA19FC5AAD00E7E6D5 /* Icon-34@2x.png */; };
+		7FD622EE1C136DB0000D54DA /* App Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622ED1C136DB0000D54DA /* App Icon.png */; };
+		7FD622F01C137ED3000D54DA /* Icon-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622EF1C137ED3000D54DA /* Icon-7@2x.png */; };
+		7FD622F61C138233000D54DA /* Icon-34@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622F51C138233000D54DA /* Icon-34@2x.png */; };
+		7FD622F81C13837C000D54DA /* Icon-35@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622F71C13837C000D54DA /* Icon-35@2x.png */; };
+		7FD622FA1C1388BF000D54DA /* Icon-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622F91C1388BF000D54DA /* Icon-32@2x.png */; };
+		7FD622FC1C138AC3000D54DA /* Icon-36@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622FB1C138AC3000D54DA /* Icon-36@2x.png */; };
+		7FD622FE1C138B54000D54DA /* Icon-37@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622FD1C138B54000D54DA /* Icon-37@2x.png */; };
+		7FD623001C138BD6000D54DA /* Icon-38@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622FF1C138BD6000D54DA /* Icon-38@2x.png */; };
+		7FD623021C138D73000D54DA /* Icon-39@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623011C138D73000D54DA /* Icon-39@2x.png */; };
+		7FD623041C138F51000D54DA /* Icon-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623031C138F51000D54DA /* Icon-40@2x.png */; };
+		7FD623061C138FDB000D54DA /* Icon-41@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623051C138FDB000D54DA /* Icon-41@2x.png */; };
+		7FD623081C13901D000D54DA /* Icon-42@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623071C13901D000D54DA /* Icon-42@2x.png */; };
+		7FD6230A1C13916E000D54DA /* Icon-43@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623091C13916E000D54DA /* Icon-43@2x.png */; };
+		7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD6230D1C13931A000D54DA /* Icon-44@2x.png */; };
 		A069C6CD19FEBB7400E7E6D5 /* Icon-0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */; };
 		A069C6CF19FEDA9B00E7E6D5 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CE19FEDA9B00E7E6D5 /* LICENSE */; };
 		A069C6D119FEDAA200E7E6D5 /* README.TXT in Resources */ = {isa = PBXBuildFile; fileRef = A069C6D019FEDAA200E7E6D5 /* README.TXT */; };
@@ -45,13 +58,11 @@
 		A089814D19FAFC7900034E0B /* Icon-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089812B19FAFC7900034E0B /* Icon-2@2x.png */; };
 		A089814E19FAFC7900034E0B /* Icon-30@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089812C19FAFC7900034E0B /* Icon-30@2x.png */; };
 		A089814F19FAFC7900034E0B /* Icon-31@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089812D19FAFC7900034E0B /* Icon-31@2x.png */; };
-		A089815019FAFC7900034E0B /* Icon-32@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089812E19FAFC7900034E0B /* Icon-32@2x.png */; };
 		A089815119FAFC7900034E0B /* Icon-33@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089812F19FAFC7900034E0B /* Icon-33@2x.png */; };
 		A089815219FAFC7900034E0B /* Icon-3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813019FAFC7900034E0B /* Icon-3@2x.png */; };
 		A089815319FAFC7900034E0B /* Icon-4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813119FAFC7900034E0B /* Icon-4@2x.png */; };
 		A089815419FAFC7900034E0B /* Icon-5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813219FAFC7900034E0B /* Icon-5@2x.png */; };
 		A089815519FAFC7900034E0B /* Icon-6@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813319FAFC7900034E0B /* Icon-6@2x.png */; };
-		A089815619FAFC7900034E0B /* Icon-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813419FAFC7900034E0B /* Icon-7@2x.png */; };
 		A089815719FAFC7900034E0B /* Icon-8@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813519FAFC7900034E0B /* Icon-8@2x.png */; };
 		A089815819FAFC7900034E0B /* Icon-9@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A089813619FAFC7900034E0B /* Icon-9@2x.png */; };
 		A089815B19FB039E00034E0B /* LMSpringboardItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = A089815A19FB039E00034E0B /* LMSpringboardItemView.m */; };
@@ -70,11 +81,24 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A069C6CA19FC5AAD00E7E6D5 /* Icon-34@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-34@2x.png"; sourceTree = "<group>"; };
+		7FD622ED1C136DB0000D54DA /* App Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "App Icon.png"; path = "../App Icon.png"; sourceTree = "<group>"; };
+		7FD622EF1C137ED3000D54DA /* Icon-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-7@2x.png"; sourceTree = "<group>"; };
+		7FD622F51C138233000D54DA /* Icon-34@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-34@2x.png"; sourceTree = "<group>"; };
+		7FD622F71C13837C000D54DA /* Icon-35@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-35@2x.png"; sourceTree = "<group>"; };
+		7FD622F91C1388BF000D54DA /* Icon-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-32@2x.png"; sourceTree = "<group>"; };
+		7FD622FB1C138AC3000D54DA /* Icon-36@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-36@2x.png"; sourceTree = "<group>"; };
+		7FD622FD1C138B54000D54DA /* Icon-37@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-37@2x.png"; sourceTree = "<group>"; };
+		7FD622FF1C138BD6000D54DA /* Icon-38@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-38@2x.png"; sourceTree = "<group>"; };
+		7FD623011C138D73000D54DA /* Icon-39@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-39@2x.png"; sourceTree = "<group>"; };
+		7FD623031C138F51000D54DA /* Icon-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-40@2x.png"; sourceTree = "<group>"; };
+		7FD623051C138FDB000D54DA /* Icon-41@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-41@2x.png"; sourceTree = "<group>"; };
+		7FD623071C13901D000D54DA /* Icon-42@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-42@2x.png"; sourceTree = "<group>"; };
+		7FD623091C13916E000D54DA /* Icon-43@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-43@2x.png"; sourceTree = "<group>"; };
+		7FD6230D1C13931A000D54DA /* Icon-44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-44@2x.png"; sourceTree = "<group>"; };
 		A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-0@2x.png"; sourceTree = "<group>"; };
 		A069C6CE19FEDA9B00E7E6D5 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		A069C6D019FEDAA200E7E6D5 /* README.TXT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.TXT; sourceTree = "<group>"; };
-		A073BBB219F9C7AB0068D6A6 /* WatchSpringboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchSpringboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A073BBB219F9C7AB0068D6A6 /* WatchBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A073BBB619F9C7AB0068D6A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A073BBB719F9C7AB0068D6A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A073BBB919F9C7AB0068D6A6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -84,7 +108,7 @@
 		A073BBC019F9C7AB0068D6A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A073BBC219F9C7AB0068D6A6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		A073BBC519F9C7AB0068D6A6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		A073BBCB19F9C7AC0068D6A6 /* WatchSpringboardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WatchSpringboardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		A073BBCB19F9C7AC0068D6A6 /* WatchBoard.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WatchBoard.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A073BBD019F9C7AC0068D6A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A073BBD119F9C7AC0068D6A6 /* WatchSpringboardTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WatchSpringboardTests.m; sourceTree = "<group>"; };
 		A073BBDC19F9C8220068D6A6 /* LMSpringboardView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMSpringboardView.h; sourceTree = "<group>"; };
@@ -116,13 +140,11 @@
 		A089812B19FAFC7900034E0B /* Icon-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-2@2x.png"; sourceTree = "<group>"; };
 		A089812C19FAFC7900034E0B /* Icon-30@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-30@2x.png"; sourceTree = "<group>"; };
 		A089812D19FAFC7900034E0B /* Icon-31@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-31@2x.png"; sourceTree = "<group>"; };
-		A089812E19FAFC7900034E0B /* Icon-32@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-32@2x.png"; sourceTree = "<group>"; };
 		A089812F19FAFC7900034E0B /* Icon-33@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-33@2x.png"; sourceTree = "<group>"; };
 		A089813019FAFC7900034E0B /* Icon-3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-3@2x.png"; sourceTree = "<group>"; };
 		A089813119FAFC7900034E0B /* Icon-4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-4@2x.png"; sourceTree = "<group>"; };
 		A089813219FAFC7900034E0B /* Icon-5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-5@2x.png"; sourceTree = "<group>"; };
 		A089813319FAFC7900034E0B /* Icon-6@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-6@2x.png"; sourceTree = "<group>"; };
-		A089813419FAFC7900034E0B /* Icon-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-7@2x.png"; sourceTree = "<group>"; };
 		A089813519FAFC7900034E0B /* Icon-8@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-8@2x.png"; sourceTree = "<group>"; };
 		A089813619FAFC7900034E0B /* Icon-9@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-9@2x.png"; sourceTree = "<group>"; };
 		A089815919FB039E00034E0B /* LMSpringboardItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LMSpringboardItemView.h; sourceTree = "<group>"; };
@@ -165,8 +187,8 @@
 		A073BBB319F9C7AB0068D6A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A073BBB219F9C7AB0068D6A6 /* WatchSpringboard.app */,
-				A073BBCB19F9C7AC0068D6A6 /* WatchSpringboardTests.xctest */,
+				A073BBB219F9C7AB0068D6A6 /* WatchBoard.app */,
+				A073BBCB19F9C7AC0068D6A6 /* WatchBoard.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -231,6 +253,7 @@
 		A089811419FAFC7900034E0B /* Icons */ = {
 			isa = PBXGroup;
 			children = (
+				7FD622ED1C136DB0000D54DA /* App Icon.png */,
 				A089811519FAFC7900034E0B /* Icon-0-for-vibrancy@2x.png */,
 				A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */,
 				A089812019FAFC7900034E0B /* Icon-1@2x.png */,
@@ -239,7 +262,7 @@
 				A089813119FAFC7900034E0B /* Icon-4@2x.png */,
 				A089813219FAFC7900034E0B /* Icon-5@2x.png */,
 				A089813319FAFC7900034E0B /* Icon-6@2x.png */,
-				A089813419FAFC7900034E0B /* Icon-7@2x.png */,
+				7FD622EF1C137ED3000D54DA /* Icon-7@2x.png */,
 				A089813519FAFC7900034E0B /* Icon-8@2x.png */,
 				A089813619FAFC7900034E0B /* Icon-9@2x.png */,
 				A089811619FAFC7900034E0B /* Icon-10@2x.png */,
@@ -264,9 +287,19 @@
 				A089812A19FAFC7900034E0B /* Icon-29@2x.png */,
 				A089812C19FAFC7900034E0B /* Icon-30@2x.png */,
 				A089812D19FAFC7900034E0B /* Icon-31@2x.png */,
-				A089812E19FAFC7900034E0B /* Icon-32@2x.png */,
+				7FD622F91C1388BF000D54DA /* Icon-32@2x.png */,
 				A089812F19FAFC7900034E0B /* Icon-33@2x.png */,
-				A069C6CA19FC5AAD00E7E6D5 /* Icon-34@2x.png */,
+				7FD622F51C138233000D54DA /* Icon-34@2x.png */,
+				7FD622F71C13837C000D54DA /* Icon-35@2x.png */,
+				7FD622FB1C138AC3000D54DA /* Icon-36@2x.png */,
+				7FD622FD1C138B54000D54DA /* Icon-37@2x.png */,
+				7FD622FF1C138BD6000D54DA /* Icon-38@2x.png */,
+				7FD623011C138D73000D54DA /* Icon-39@2x.png */,
+				7FD623031C138F51000D54DA /* Icon-40@2x.png */,
+				7FD623051C138FDB000D54DA /* Icon-41@2x.png */,
+				7FD623071C13901D000D54DA /* Icon-42@2x.png */,
+				7FD623091C13916E000D54DA /* Icon-43@2x.png */,
+				7FD6230D1C13931A000D54DA /* Icon-44@2x.png */,
 			);
 			path = Icons;
 			sourceTree = "<group>";
@@ -285,9 +318,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A073BBB119F9C7AB0068D6A6 /* WatchSpringboard */ = {
+		A073BBB119F9C7AB0068D6A6 /* WatchBoard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A073BBD519F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchSpringboard" */;
+			buildConfigurationList = A073BBD519F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchBoard" */;
 			buildPhases = (
 				A073BBAE19F9C7AB0068D6A6 /* Sources */,
 				A073BBAF19F9C7AB0068D6A6 /* Frameworks */,
@@ -297,14 +330,14 @@
 			);
 			dependencies = (
 			);
-			name = WatchSpringboard;
+			name = WatchBoard;
 			productName = WatchSpringboard;
-			productReference = A073BBB219F9C7AB0068D6A6 /* WatchSpringboard.app */;
+			productReference = A073BBB219F9C7AB0068D6A6 /* WatchBoard.app */;
 			productType = "com.apple.product-type.application";
 		};
-		A073BBCA19F9C7AC0068D6A6 /* WatchSpringboardTests */ = {
+		A073BBCA19F9C7AC0068D6A6 /* WatchBoardTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A073BBD819F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchSpringboardTests" */;
+			buildConfigurationList = A073BBD819F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchBoardTests" */;
 			buildPhases = (
 				A073BBC719F9C7AC0068D6A6 /* Sources */,
 				A073BBC819F9C7AC0068D6A6 /* Frameworks */,
@@ -315,9 +348,9 @@
 			dependencies = (
 				A073BBCD19F9C7AC0068D6A6 /* PBXTargetDependency */,
 			);
-			name = WatchSpringboardTests;
+			name = WatchBoardTests;
 			productName = WatchSpringboardTests;
-			productReference = A073BBCB19F9C7AC0068D6A6 /* WatchSpringboardTests.xctest */;
+			productReference = A073BBCB19F9C7AC0068D6A6 /* WatchBoard.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -327,10 +360,11 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
-				ORGANIZATIONNAME = "Lucas Menge";
+				ORGANIZATIONNAME = OwenDonckers;
 				TargetAttributes = {
 					A073BBB119F9C7AB0068D6A6 = {
 						CreatedOnToolsVersion = 6.1;
+						DevelopmentTeam = J6PFETQJQU;
 					};
 					A073BBCA19F9C7AC0068D6A6 = {
 						CreatedOnToolsVersion = 6.1;
@@ -338,7 +372,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A073BBAD19F9C7AB0068D6A6 /* Build configuration list for PBXProject "WatchSpringboard" */;
+			buildConfigurationList = A073BBAD19F9C7AB0068D6A6 /* Build configuration list for PBXProject "WatchBoard" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -351,8 +385,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A073BBB119F9C7AB0068D6A6 /* WatchSpringboard */,
-				A073BBCA19F9C7AC0068D6A6 /* WatchSpringboardTests */,
+				A073BBB119F9C7AB0068D6A6 /* WatchBoard */,
+				A073BBCA19F9C7AC0068D6A6 /* WatchBoardTests */,
 			);
 		};
 /* End PBXProject section */
@@ -367,25 +401,31 @@
 				A089813C19FAFC7900034E0B /* Icon-14@2x.png in Resources */,
 				A089814619FAFC7900034E0B /* Icon-23@2x.png in Resources */,
 				A089815719FAFC7900034E0B /* Icon-8@2x.png in Resources */,
+				7FD622EE1C136DB0000D54DA /* App Icon.png in Resources */,
 				A089814A19FAFC7900034E0B /* Icon-27@2x.png in Resources */,
 				A089814719FAFC7900034E0B /* Icon-24@2x.png in Resources */,
+				7FD622FE1C138B54000D54DA /* Icon-37@2x.png in Resources */,
 				A089813719FAFC7900034E0B /* Icon-0-for-vibrancy@2x.png in Resources */,
 				A089814319FAFC7900034E0B /* Icon-20@2x.png in Resources */,
 				A089814419FAFC7900034E0B /* Icon-21@2x.png in Resources */,
-				A089815019FAFC7900034E0B /* Icon-32@2x.png in Resources */,
 				A089814519FAFC7900034E0B /* Icon-22@2x.png in Resources */,
+				7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */,
 				A069C6CF19FEDA9B00E7E6D5 /* LICENSE in Resources */,
 				A089814119FAFC7900034E0B /* Icon-19@2x.png in Resources */,
 				A073BBC119F9C7AB0068D6A6 /* Main.storyboard in Resources */,
 				A089814B19FAFC7900034E0B /* Icon-28@2x.png in Resources */,
+				7FD623081C13901D000D54DA /* Icon-42@2x.png in Resources */,
 				A069C6D119FEDAA200E7E6D5 /* README.TXT in Resources */,
 				A089814E19FAFC7900034E0B /* Icon-30@2x.png in Resources */,
+				7FD623021C138D73000D54DA /* Icon-39@2x.png in Resources */,
 				A089814219FAFC7900034E0B /* Icon-1@2x.png in Resources */,
+				7FD623041C138F51000D54DA /* Icon-40@2x.png in Resources */,
 				A089813D19FAFC7900034E0B /* Icon-15@2x.png in Resources */,
 				A073BBC619F9C7AB0068D6A6 /* LaunchScreen.xib in Resources */,
 				A089814919FAFC7900034E0B /* Icon-26@2x.png in Resources */,
 				A089813E19FAFC7900034E0B /* Icon-16@2x.png in Resources */,
 				A089815319FAFC7900034E0B /* Icon-4@2x.png in Resources */,
+				7FD622FA1C1388BF000D54DA /* Icon-32@2x.png in Resources */,
 				A089813A19FAFC7900034E0B /* Icon-12@2x.png in Resources */,
 				A089815519FAFC7900034E0B /* Icon-6@2x.png in Resources */,
 				A089813919FAFC7900034E0B /* Icon-11@2x.png in Resources */,
@@ -393,16 +433,21 @@
 				A069C6CD19FEBB7400E7E6D5 /* Icon-0@2x.png in Resources */,
 				A089815819FAFC7900034E0B /* Icon-9@2x.png in Resources */,
 				A089814D19FAFC7900034E0B /* Icon-2@2x.png in Resources */,
+				7FD622F61C138233000D54DA /* Icon-34@2x.png in Resources */,
 				A089814819FAFC7900034E0B /* Icon-25@2x.png in Resources */,
-				A089815619FAFC7900034E0B /* Icon-7@2x.png in Resources */,
+				7FD622F81C13837C000D54DA /* Icon-35@2x.png in Resources */,
+				7FD6230A1C13916E000D54DA /* Icon-43@2x.png in Resources */,
+				7FD623001C138BD6000D54DA /* Icon-38@2x.png in Resources */,
 				A089813F19FAFC7900034E0B /* Icon-17@2x.png in Resources */,
+				7FD623061C138FDB000D54DA /* Icon-41@2x.png in Resources */,
 				A089813819FAFC7900034E0B /* Icon-10@2x.png in Resources */,
 				A089815219FAFC7900034E0B /* Icon-3@2x.png in Resources */,
+				7FD622FC1C138AC3000D54DA /* Icon-36@2x.png in Resources */,
 				A089815119FAFC7900034E0B /* Icon-33@2x.png in Resources */,
-				A069C6CB19FC5AAE00E7E6D5 /* Icon-34@2x.png in Resources */,
 				A089815419FAFC7900034E0B /* Icon-5@2x.png in Resources */,
 				A089814C19FAFC7900034E0B /* Icon-29@2x.png in Resources */,
 				A073BBC319F9C7AB0068D6A6 /* Images.xcassets in Resources */,
+				7FD622F01C137ED3000D54DA /* Icon-7@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,7 +489,7 @@
 /* Begin PBXTargetDependency section */
 		A073BBCD19F9C7AC0068D6A6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = A073BBB119F9C7AB0068D6A6 /* WatchSpringboard */;
+			target = A073BBB119F9C7AB0068D6A6 /* WatchBoard */;
 			targetProxy = A073BBCC19F9C7AC0068D6A6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -551,10 +596,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WatchSpringboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = OwenDonckers.WatchSpringboard;
+				PRODUCT_NAME = WatchBoard;
 			};
 			name = Debug;
 		};
@@ -562,10 +609,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = WatchSpringboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = OwenDonckers.WatchSpringboard;
+				PRODUCT_NAME = WatchBoard;
 			};
 			name = Release;
 		};
@@ -583,8 +632,8 @@
 				);
 				INFOPLIST_FILE = WatchSpringboardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchSpringboard.app/WatchSpringboard";
+				PRODUCT_NAME = WatchBoard;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchBoard.app/WatchBoard";
 			};
 			name = Debug;
 		};
@@ -598,15 +647,15 @@
 				);
 				INFOPLIST_FILE = WatchSpringboardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchSpringboard.app/WatchSpringboard";
+				PRODUCT_NAME = WatchBoard;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchBoard.app/WatchBoard";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A073BBAD19F9C7AB0068D6A6 /* Build configuration list for PBXProject "WatchSpringboard" */ = {
+		A073BBAD19F9C7AB0068D6A6 /* Build configuration list for PBXProject "WatchBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A073BBD319F9C7AC0068D6A6 /* Debug */,
@@ -615,7 +664,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A073BBD519F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchSpringboard" */ = {
+		A073BBD519F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A073BBD619F9C7AC0068D6A6 /* Debug */,
@@ -624,7 +673,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A073BBD819F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchSpringboardTests" */ = {
+		A073BBD819F9C7AC0068D6A6 /* Build configuration list for PBXNativeTarget "WatchBoardTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A073BBD919F9C7AC0068D6A6 /* Debug */,

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6250" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
     </dependencies>
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
@@ -10,23 +11,27 @@
             <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Wallpaper" translatesAutoresizingMaskIntoConstraints="NO" id="vUf-RO-1QU">
-                    <rect key="frame" x="0.0" y="0.0" width="480" height="480"/>
-                </imageView>
+                <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Dcs-bu-Pd7">
+                    <rect key="frame" x="0.0" y="0.0" width="480" height="20"/>
+                    <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="xeC-4q-l7z">
+                        <rect key="frame" x="0.0" y="0.0" width="480" height="20"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    </view>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="20" id="Xgi-iF-OiZ"/>
+                    </constraints>
+                    <blurEffect style="light"/>
+                </visualEffectView>
             </subviews>
-            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <color key="backgroundColor" white="1" alpha="0.24865301724137931" colorSpace="calibratedWhite"/>
             <constraints>
-                <constraint firstItem="vUf-RO-1QU" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="4nJ-0y-CHX"/>
-                <constraint firstAttribute="trailing" secondItem="vUf-RO-1QU" secondAttribute="trailing" id="88b-n5-kgq"/>
-                <constraint firstAttribute="bottom" secondItem="vUf-RO-1QU" secondAttribute="bottom" id="P5E-EG-X7Y"/>
-                <constraint firstItem="vUf-RO-1QU" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Vlc-ah-39Y"/>
+                <constraint firstItem="Dcs-bu-Pd7" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Oye-9k-a9V"/>
+                <constraint firstAttribute="trailing" secondItem="Dcs-bu-Pd7" secondAttribute="trailing" id="PhR-Wa-CAX"/>
+                <constraint firstItem="Dcs-bu-Pd7" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="aSo-hh-2Ap"/>
             </constraints>
             <nil key="simulatedStatusBarMetrics"/>
             <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
             <point key="canvasLocation" x="548" y="455"/>
         </view>
     </objects>
-    <resources>
-        <image name="Wallpaper" width="568" height="568"/>
-    </resources>
 </document>
