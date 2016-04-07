@@ -40,7 +40,7 @@
 
 - (NSString*)bundleIdentifier
 {
-	return [_applicationProxy bundleIdentifier];
+    return [_applicationProxy bundleIdentifier];
 }
 
 - (UIImage*)icon
