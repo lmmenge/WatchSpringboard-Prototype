@@ -35,8 +35,7 @@
 
 - (NSString*)name
 {
-    //return _applicationProxy.localizedName ?: _applicationProxy.localizedShortName;
-	return @"";
+    return _applicationProxy.localizedName ?: _applicationProxy.localizedShortName;
 }
 
 - (NSString*)bundleIdentifier
@@ -49,7 +48,6 @@
 	if(nil == _icon)
 	{
         _icon = [UIImage _applicationIconImageForBundleIdentifier:self.bundleIdentifier format:10 scale:2.0];
-        //_icon = [UIImage imageNamed:@"App Icon.png"];
         
         if([self.bundleIdentifier  isEqual: @"com.apple.Preferences"])
         {

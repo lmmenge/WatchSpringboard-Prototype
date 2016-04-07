@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7FD622EE1C136DB0000D54DA /* App Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622ED1C136DB0000D54DA /* App Icon.png */; };
 		7FD622F01C137ED3000D54DA /* Icon-7@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622EF1C137ED3000D54DA /* Icon-7@2x.png */; };
 		7FD622F61C138233000D54DA /* Icon-34@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622F51C138233000D54DA /* Icon-34@2x.png */; };
 		7FD622F81C13837C000D54DA /* Icon-35@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD622F71C13837C000D54DA /* Icon-35@2x.png */; };
@@ -22,8 +21,8 @@
 		7FD6230A1C13916E000D54DA /* Icon-43@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623091C13916E000D54DA /* Icon-43@2x.png */; };
 		7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD6230D1C13931A000D54DA /* Icon-44@2x.png */; };
 		A069C6CD19FEBB7400E7E6D5 /* Icon-0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */; };
-		A069C6CF19FEDA9B00E7E6D5 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CE19FEDA9B00E7E6D5 /* LICENSE */; };
-		A069C6D119FEDAA200E7E6D5 /* README.TXT in Resources */ = {isa = PBXBuildFile; fileRef = A069C6D019FEDAA200E7E6D5 /* README.TXT */; };
+		A069C6CF19FEDA9B00E7E6D5 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CE19FEDA9B00E7E6D5 /* LICENSE.md */; };
+		A069C6D119FEDAA200E7E6D5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A069C6D019FEDAA200E7E6D5 /* README.md */; };
 		A073BBB819F9C7AB0068D6A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A073BBB719F9C7AB0068D6A6 /* main.m */; };
 		A073BBBB19F9C7AB0068D6A6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A073BBBA19F9C7AB0068D6A6 /* AppDelegate.m */; };
 		A073BBBE19F9C7AB0068D6A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A073BBBD19F9C7AB0068D6A6 /* ViewController.m */; };
@@ -81,7 +80,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7FD622ED1C136DB0000D54DA /* App Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "App Icon.png"; path = "../App Icon.png"; sourceTree = "<group>"; };
 		7FD622EF1C137ED3000D54DA /* Icon-7@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-7@2x.png"; sourceTree = "<group>"; };
 		7FD622F51C138233000D54DA /* Icon-34@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-34@2x.png"; sourceTree = "<group>"; };
 		7FD622F71C13837C000D54DA /* Icon-35@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-35@2x.png"; sourceTree = "<group>"; };
@@ -96,8 +94,8 @@
 		7FD623091C13916E000D54DA /* Icon-43@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-43@2x.png"; sourceTree = "<group>"; };
 		7FD6230D1C13931A000D54DA /* Icon-44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-44@2x.png"; sourceTree = "<group>"; };
 		A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-0@2x.png"; sourceTree = "<group>"; };
-		A069C6CE19FEDA9B00E7E6D5 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		A069C6D019FEDAA200E7E6D5 /* README.TXT */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.TXT; sourceTree = "<group>"; };
+		A069C6CE19FEDA9B00E7E6D5 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
+		A069C6D019FEDAA200E7E6D5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A073BBB219F9C7AB0068D6A6 /* WatchBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A073BBB619F9C7AB0068D6A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A073BBB719F9C7AB0068D6A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -176,8 +174,8 @@
 		A073BBA919F9C7AB0068D6A6 = {
 			isa = PBXGroup;
 			children = (
-				A069C6D019FEDAA200E7E6D5 /* README.TXT */,
-				A069C6CE19FEDA9B00E7E6D5 /* LICENSE */,
+				A069C6D019FEDAA200E7E6D5 /* README.md */,
+				A069C6CE19FEDA9B00E7E6D5 /* LICENSE.md */,
 				A073BBB419F9C7AB0068D6A6 /* WatchSpringboard */,
 				A073BBCE19F9C7AC0068D6A6 /* WatchSpringboardTests */,
 				A073BBB319F9C7AB0068D6A6 /* Products */,
@@ -253,7 +251,6 @@
 		A089811419FAFC7900034E0B /* Icons */ = {
 			isa = PBXGroup;
 			children = (
-				7FD622ED1C136DB0000D54DA /* App Icon.png */,
 				A089811519FAFC7900034E0B /* Icon-0-for-vibrancy@2x.png */,
 				A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */,
 				A089812019FAFC7900034E0B /* Icon-1@2x.png */,
@@ -359,7 +356,7 @@
 		A073BBAA19F9C7AB0068D6A6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = OwenDonckers;
 				TargetAttributes = {
 					A073BBB119F9C7AB0068D6A6 = {
@@ -401,7 +398,6 @@
 				A089813C19FAFC7900034E0B /* Icon-14@2x.png in Resources */,
 				A089814619FAFC7900034E0B /* Icon-23@2x.png in Resources */,
 				A089815719FAFC7900034E0B /* Icon-8@2x.png in Resources */,
-				7FD622EE1C136DB0000D54DA /* App Icon.png in Resources */,
 				A089814A19FAFC7900034E0B /* Icon-27@2x.png in Resources */,
 				A089814719FAFC7900034E0B /* Icon-24@2x.png in Resources */,
 				7FD622FE1C138B54000D54DA /* Icon-37@2x.png in Resources */,
@@ -410,12 +406,12 @@
 				A089814419FAFC7900034E0B /* Icon-21@2x.png in Resources */,
 				A089814519FAFC7900034E0B /* Icon-22@2x.png in Resources */,
 				7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */,
-				A069C6CF19FEDA9B00E7E6D5 /* LICENSE in Resources */,
+				A069C6CF19FEDA9B00E7E6D5 /* LICENSE.md in Resources */,
 				A089814119FAFC7900034E0B /* Icon-19@2x.png in Resources */,
 				A073BBC119F9C7AB0068D6A6 /* Main.storyboard in Resources */,
 				A089814B19FAFC7900034E0B /* Icon-28@2x.png in Resources */,
 				7FD623081C13901D000D54DA /* Icon-42@2x.png in Resources */,
-				A069C6D119FEDAA200E7E6D5 /* README.TXT in Resources */,
+				A069C6D119FEDAA200E7E6D5 /* README.md in Resources */,
 				A089814E19FAFC7900034E0B /* Icon-30@2x.png in Resources */,
 				7FD623021C138D73000D54DA /* Icon-39@2x.png in Resources */,
 				A089814219FAFC7900034E0B /* Icon-1@2x.png in Resources */,
@@ -534,6 +530,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -597,11 +594,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = WatchSpringboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = OwenDonckers.WatchSpringboard;
 				PRODUCT_NAME = WatchBoard;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -610,11 +609,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = WatchSpringboard/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = OwenDonckers.WatchSpringboard;
 				PRODUCT_NAME = WatchBoard;
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -632,6 +633,7 @@
 				);
 				INFOPLIST_FILE = WatchSpringboardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lmmenge.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = WatchBoard;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchBoard.app/WatchBoard";
 			};
@@ -647,6 +649,7 @@
 				);
 				INFOPLIST_FILE = WatchSpringboardTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lmmenge.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = WatchBoard;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/WatchBoard.app/WatchBoard";
 			};
