@@ -26,4 +26,4 @@ License
 
 [article]:http://9to5mac.com/2014/10/22/apple-watch-home-screen-design-iphone/
 [here]:https://www.youtube.com/watch?v=UggYGThmFEo&list=UU7C761Fn9aih_W6kMvkm24w
-[Lucas Mendes Menge]:https://github.com/odonckers/WatchBoard-Prototype/blob/master/LICENSE
+[Lucas Mendes Menge]:https://github.com/odonckers/WatchBoard-Prototype/blob/master/LICENSE.md
