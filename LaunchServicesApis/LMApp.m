@@ -193,6 +193,10 @@
         {
             _icon = [UIImage imageNamed:@"Icon-44@2x.png"];
         }
+        else if([self.bundleIdentifier  isEqual: @"com.apple.News"])
+        {
+            _icon = [UIImage imageNamed:@"Icon-45@2x.png"];
+        }
 	}
 	
 	return _icon;

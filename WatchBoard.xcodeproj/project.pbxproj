@@ -20,6 +20,7 @@
 		7FD623081C13901D000D54DA /* Icon-42@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623071C13901D000D54DA /* Icon-42@2x.png */; };
 		7FD6230A1C13916E000D54DA /* Icon-43@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD623091C13916E000D54DA /* Icon-43@2x.png */; };
 		7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FD6230D1C13931A000D54DA /* Icon-44@2x.png */; };
+		7FEAC5DC1CB9EDA500B76BEE /* Icon-45@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7FEAC5DB1CB9EDA500B76BEE /* Icon-45@2x.png */; };
 		A069C6CD19FEBB7400E7E6D5 /* Icon-0@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */; };
 		A069C6CF19FEDA9B00E7E6D5 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = A069C6CE19FEDA9B00E7E6D5 /* LICENSE.md */; };
 		A069C6D119FEDAA200E7E6D5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A069C6D019FEDAA200E7E6D5 /* README.md */; };
@@ -93,6 +94,7 @@
 		7FD623071C13901D000D54DA /* Icon-42@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-42@2x.png"; sourceTree = "<group>"; };
 		7FD623091C13916E000D54DA /* Icon-43@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-43@2x.png"; sourceTree = "<group>"; };
 		7FD6230D1C13931A000D54DA /* Icon-44@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-44@2x.png"; sourceTree = "<group>"; };
+		7FEAC5DB1CB9EDA500B76BEE /* Icon-45@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-45@2x.png"; sourceTree = "<group>"; };
 		A069C6CC19FEBB7400E7E6D5 /* Icon-0@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-0@2x.png"; sourceTree = "<group>"; };
 		A069C6CE19FEDA9B00E7E6D5 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 		A069C6D019FEDAA200E7E6D5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -297,6 +299,7 @@
 				7FD623071C13901D000D54DA /* Icon-42@2x.png */,
 				7FD623091C13916E000D54DA /* Icon-43@2x.png */,
 				7FD6230D1C13931A000D54DA /* Icon-44@2x.png */,
+				7FEAC5DB1CB9EDA500B76BEE /* Icon-45@2x.png */,
 			);
 			path = Icons;
 			sourceTree = "<group>";
@@ -407,6 +410,7 @@
 				A089814519FAFC7900034E0B /* Icon-22@2x.png in Resources */,
 				7FD6230E1C13931A000D54DA /* Icon-44@2x.png in Resources */,
 				A069C6CF19FEDA9B00E7E6D5 /* LICENSE.md in Resources */,
+				7FEAC5DC1CB9EDA500B76BEE /* Icon-45@2x.png in Resources */,
 				A089814119FAFC7900034E0B /* Icon-19@2x.png in Resources */,
 				A073BBC119F9C7AB0068D6A6 /* Main.storyboard in Resources */,
 				A089814B19FAFC7900034E0B /* Icon-28@2x.png in Resources */,
